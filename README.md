@@ -245,7 +245,7 @@ print(result)  # Output: 4.0
 
 
 ### File I/O: ###
-    - How do you read from and write to files in Python? Write a script that reads the content of a file and prints it to the console, and another script that writes a list of strings to a file.
+   - How do you read from and write to files in Python? Write a script that reads the content of a file and prints it to the console, and another script that writes a list of strings to a file.
 
 Python has several functions for creating,reading,updating, and deleting files
 
